@@ -7,6 +7,7 @@ public class Boletin3Programacion {
 
     public static void main(String[] args) {
         int c;
+        float b;
     //creamos el objeto consume con el constructor por defecto.
     Consumo consume = new Consumo();
     //damos valores a litros y precio de gasolina
